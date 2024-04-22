@@ -1,0 +1,11 @@
+{
+  "name": "exlint-prettier-crlf",
+  "type": "module",
+  "dependencies": {
+    "@antfu/eslint-config": "2.15.0",
+    "eslint": "9.1.0"
+  },
+  "devDependencies": {
+    "eslint-plugin-format": "^0.1.1"
+  }
+}
